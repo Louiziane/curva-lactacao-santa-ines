@@ -74,18 +74,16 @@ O script R é fornecido para documentar os procedimentos estatísticos realizado
 
 ## Referência
 
-BRODY, S.; TURNER, C. W.; RAGSDALE, A. C. The relation between the initial rise and the subsequent decline of milk secretion following parturition. The Journal of General Physiology, v. 6, n. 5, p. 541–545, 1924.
-DOI: https://doi.org/10.1085/jgp.6.5.541
+BRODY, S.; TURNER, C. W.; RAGSDALE, A. C. The relation between the initial rise and the subsequent decline of milk secretion following parturition. The Journal of General Physiology, v. 6, n. 5, p. 541–545, 1924. 
+
+CAPPIO-BORLINO, A.; PULINA, G.; ROSSI, G. A non-linear modification of Wood's equation fitted to lactation curves of Sardinian dairy ewes. Small Ruminant Research, v. 18, n. 1, p. 75–79, 1995. 
 
 GRECA, S. P. *Produção e composição do leite ovino de diferentes grupos genéticos*. 2013. 53 f. Dissertação (Mestrado) – Universidade Federal de Lavras, Lavras, 2013.
 
-NELDER, J. A. Inverse polynomials, a useful group of multi-factor response functions. Biometrics, v. 22, n. 1, p. 128–141, 1966.
-DOI: https://doi.org/10.2307/2528220
+NELDER, J. A. Inverse polynomials, a useful group of multi-factor response functions. Biometrics, v. 22, n. 1, p. 128–141, 1966. 
 
-WOOD, P. D. P. Algebraic model of the lactation curve in cattle. Nature, v. 216, p. 164–165, 1967.
-DOI: https://doi.org/10.1038/216164a0
+WOOD, P. D. P. Algebraic model of the lactation curve in cattle. Nature, v. 216, p. 164–165, 1967. DOI: https://doi.org/10.1038/216164a0
 
-CAPPIO-BORLINO, A.; PULINA, G.; ROSSI, G. A non-linear modification of Wood's equation fitted to lactation curves of Sardinian dairy ewes. Small Ruminant Research, v. 18, n. 1, p. 75–79, 1995.
-DOI: https://doi.org/10.1016/0921-4488(95)00713-U
+WOOD, P. D. P. Factors affecting persistency of lactation in cattle. Nature, v. 218, p. 894, 1968. DOI: 10.1038/218894a0
 
-GRECA, S. P. *Produção e composição do leite ovino de diferentes grupos genéticos*. 2013. 53 f. Dissertação (Mestrado) – Universidade Federal de Lavras, Lavras, 2013.
+
