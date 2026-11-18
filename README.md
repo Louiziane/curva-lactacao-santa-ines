@@ -82,8 +82,8 @@ GRECA, S. P. *Produção e composição do leite ovino de diferentes grupos gen�
 
 NELDER, J. A. Inverse polynomials, a useful group of multi-factor response functions. Biometrics, v. 22, n. 1, p. 128–141, 1966. 
 
-WOOD, P. D. P. Algebraic model of the lactation curve in cattle. Nature, v. 216, p. 164–165, 1967. DOI: https://doi.org/10.1038/216164a0
+WOOD, P. D. P. Algebraic model of the lactation curve in cattle. Nature, v. 216, p. 164–165, 1967.
 
-WOOD, P. D. P. Factors affecting persistency of lactation in cattle. Nature, v. 218, p. 894, 1968. DOI: 10.1038/218894a0
+WOOD, P. D. P. Factors affecting persistency of lactation in cattle. Nature, v. 218, p. 894, 1968. 
 
 
